@@ -1,7 +1,7 @@
 
 #                                                                                   Protoqit_CRM
 ## Welcome! 👋
-This project is client management system website for [(Protoqit company )](https://www.protoqit.com/about-us),(USA-California),
+This project is client relationship management website for [(Protoqit company )](https://www.protoqit.com/about-us),(USA-California),
 I developed the backend api for this website 👨‍💻.
 
 ### Built with:
@@ -59,16 +59,26 @@ I developed the backend api for this website 👨‍💻.
 <li class="has-line-data" data-line-start="19" data-line-end="20">Super admin can see all things and control all things</li>
 </ul>
 
+
+### Site UI :
+
+![UI](./design/Protoqit-CRM-dashboard.png)
+
+
+
+
 ### Swagger:
 
+![swagger](./design/Protoqit-CRM-Swagger.png)
 
 
 
 ### Project folders structure:
 
 
+![folders_structure](./design/Protoqit-CRM-folders_structure.png)
 
-### Source code is privet because is ownered to YSH company 🤷‍♂️.
+### Source code is privet because is ownered to Protoqit company 🤷‍♂️.
 
 #### But you can contact me if you want to inquire about something
 ### You can see the some site pages in design folder😃.
