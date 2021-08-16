@@ -61,12 +61,12 @@ I developed the backend api for this website 👨‍💻.
 
 ### Swagger:
 
-![swagger](./design/YSH_CRM_swagger.png)
+
 
 
 ### Project folders structure:
 
-![folders_structure](./design/YSH_CRM_folders_structure.png)
+
 
 ### Source code is privet because is ownered to YSH company 🤷‍♂️.
 
