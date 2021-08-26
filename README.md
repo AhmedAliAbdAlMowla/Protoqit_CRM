@@ -83,5 +83,5 @@ I developed the backend api for this website 👨‍💻.
 #### But you can contact me if you want to inquire about something
 ### You can see the some site pages in design folder😃.
 ## Author
-- LinkedIn - [@AhmedAliAhmedAbdAl-Mowla](https://www.linkedin.com/in/ahmed-ali-ahmed-abd-al-mowla-630284158/)
+- LinkedIn - [@AhmedAliAhmedAbdAl-Mowla](https://www.linkedin.com/in/ahmedaliabdalmowla/)
 
